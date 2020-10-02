@@ -1,2 +1,4 @@
 # pallindrome
-pallindrome algorithm in java
+
+-pallindrome algorithm in java
+-Palindrome string in java
